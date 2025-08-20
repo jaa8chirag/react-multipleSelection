@@ -1,3 +1,17 @@
+
+An interactive Accordion component built with React and Tailwind CSS.  
+It supports both **Single Selection** and **Multiple Selection** modes.  
+
+## ✨ Features
+- Single and Multiple accordion toggle support
+- Dark theme with Tailwind CSS
+- Smooth transitions & animations
+- Clean and reusable React component
+
+## 🚀 Tech Stack
+- React (useState Hook)
+- Tailwind CSS
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
